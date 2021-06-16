@@ -1,0 +1,121 @@
+********************************************************
+HOME PAGE CONTENT
+********************************************************
+
+Welcome to the COVID Fatigue Fighter Website
+
+We know it has been a rough year. First year wasn't the way it was supposed to be. Everyone is tired of zoom classes, social distancing and sad news.  In a silly attempt to bring some light into the world, CS1033 students have created this website, which serves 2 purposes:
+-1. To help CS1033 students learn how to create a website.
+-2. To shine some light on a rough year.
+
+In order to get this site going, here are 3 great masks from the pandemic:
+
+********************************************************
+WESTERN RESEARCH PAGE CONTENT
+********************************************************
+Western University has professors, graduate students and undergraduate students tackling the COVID crisis on many fronts. Here are just a few of Western's COVID research projects:
+
+Computer Science and Stats Professor Dr. Grace Yi and her colleagues create a tool to help visualize COVID data across Canada.
+
+Computer Science Professor Dr. Anwar Haque and a team of computer scientists do a digital deep dive in order to test the privacy thresholds and effectiveness of contract tracing mobile apps. 
+
+Epidemiologist Dr. Saverio Stranges investigates spread of the disease, trying to determine why some countries have been able to successfully manage the COVID outbreak but other countries have seen rapid increases in the number of cases. His results will be helpful in curbing the spread of future outbreaks. 
+
+Computer Science lecturers Bryan Sarlo and Laura Reid feeble attempt to bring some lightness to a heavy world by having their students create a website about the pandemic but with a more hopeful tone.  
+
+For more hopeful news about Western research contact us at hopefulcovidnews@uwo.ca
+
+********************************************************
+GOOD NEWS STORIES PAGE CONTENT
+********************************************************
+
+Tom's 100th Birthday Walk For The NHS - At age 99, Captain Thomas Moore, a former British officer, decided to walk laps (10 per day) in his garden to raise money for the British National Health Services. He was attempting to raise 1000 pounds before his 100th birthday. On the morning of his 100th birthday the total raised by his walk passed 30 million pounds!
+
+https://www.bbc.com/news/av/uk-52488385
+
+The Office Cast Reunite to Marry Super Fans - During 2020, many wedding plans were cancelled or postponed. After couple John and Susan sent John Krasinski a video of John's proposal to Susan, Krasinski got a crazy idea.  Krasinski became an ordained minister so that he could officiate their zoom wedding. Then he enlisted his former "The Office" cast to help him recreate a famous "The Office" scene for the wedding couple. 
+
+https://www.cnet.com/news/the-office-cast-reunites-for-a-zoom-wedding-hosted-by-john-krasinski/
+
+Mumbai Flamingos Create a Sea of Pink - With less people out and about due to lockdowns in India, a more peaceful environment has been created for flamingos who are always looking for a place to obtain food.  There has been a 25% increase in the number of birds migrating to the Mumbai suburbs this year. 
+
+https://www.cbsnews.com/news/flamingos-mumbai-india-coronavirus-lockdown/
+
+
+A story of YOUR choice
+
+
+
+********************************************************
+VOCABULARY PAGE CONTENT
+********************************************************
+
+Some of the new words/phrases that have appeared in our vocabulary this year due to COVID include:
+
+-Zoombombing
+-Covidiot
+-Flatten the curve
+-Social Distancing
+-The Rona
+-Maskne
+-Doomscrolling
+-COVID Bubble
+-Quarantine 15/COVID 10
+-WFH
+
+
+Zoombombing - when an uninvited person joins a Zoom meeting in an unwanted or disruptive way.
+
+Covidiot - Someone who is not taking the pandemic seriously, ignoring "social distancing," and still trying to continue their life as normal. This term can also refer to someone who's hoarding groceries and spreading misinformation about the virus.
+
+Flatten the curve - spreading out the rate of infection over a longer time so as to not overwhelm the health care infrastructure. 
+
+Social Distancing - keeping a safe distance, at least 2 metres, between yourself and other people not in your household in order to slow the spread of a contagious disease. 
+
+The Rona - An abbreviation for the coronavirus. 
+
+Maskne - Acne that you get from wearing a mask. 
+
+Doomscrolling - Excessive amounts of screen time spent surfing through bad news even though it is clearly depressing or disheartening the reader.  
+
+COVID Bubble - A group of people with whom you have close physical and social contact while still limiting the risk of COVID transmission. 
+
+Quarantine 15/COVID 10 - The weight gain acquired during COVID quarantine period fueled by boredom or stress or nervous eating.
+
+WFH - An acronym for the act of Working From Home during the pandemic rather than having employees go into office buildings and spread the disease. 
+
+
+
+********************************************************
+REFERENCES PAGE CONTENT
+********************************************************
+
+You will add the content for this page yourself
+
+GRACE YI RESEARCH: https://www.uwo.ca/stats/people/bios/Yi,%20Grace.html
+
+ANWAR HAQUE RESEARCH: https://www.csd.uwo.ca/~ahaque32/
+
+SAVERIO STRANGES RESEARCH: https://www.schulich.uwo.ca/epibio/people/core_faculty/dr_saverio_stranges.html
+
+COVID ICONS BANNER: https://pixabay.com/illustrations/coronavirus-line-art-virus-5019475/
+
+EARTH WITH MASK IN BANNER: https://pixabay.com/vectors/globe-mask-world-covid-coronavirus-5636554/
+
+SOCIAL DISTANCING: https://pixabay.com/vectors/social-distancing-distance-icon-5132443/
+
+MASK 3: https://www.google.com/imgres?imgurl=https%3A%2F%2Feditorialist.com%2Fwp-content%2Fuploads%2Felementor%2Fthumbs%2FDesigner-Face-Masks_0000s_0001_38-Burberry-Mask-ovnn9yh92dvx9tonk168hqj9tmxvv307zfc8kvt4og.jpg&imgrefurl=https%3A%2F%2Feditorialist.com%2Fstyle%2Fdesigner-face-masks%2F&tbnid=QINqNykrKQ8rkM&vet=12ahUKEwjnjfuCnv_uAhWHFM0KHYW9CNEQMygIegUIARCgAQ..i&docid=9Yn6R7y2XmHsGM&w=450&h=600&q=burberry%20mask&safe=strict&ved=2ahUKEwjnjfuCnv_uAhWHFM0KHYW9CNEQMygIegUIARCgAQ
+
+MASK 2: https://www.teepublic.com/mask/10543567-dont-stand-so-close-to-me
+
+MASK 1: https://www.google.com/imgres?imgurl=https%3A%2F%2Fnewagetee.com%2Fwp-content%2Fuploads%2F2020%2F08%2Fil_fullxfull.2460363503_ijp2.jpg&imgrefurl=https%3A%2F%2Fnewagetee.com%2Fproduct%2Fdumpster-trash-bin-im-fine-internet-meme-quote-face-mask%2F&tbnid=Ge8aVWeP9oOTtM&vet=12ahUKEwiM996env_uAhXQaM0KHaylBPwQMygkegUIARD4AQ..i&docid=4AUxwjalNtPQsM&w=1000&h=1000&q=im%20fine%20meme%20mask&safe=strict&ved=2ahUKEwiM996env_uAhXQaM0KHaylBPwQMygkegUIARD4AQ
+
+STATS IMAGE: https://COVID-19-canada.uwo.ca/
+
+ZOOM WEDDING: https://www.google.com/imgres?imgurl=https%3A%2F%2Fcnet3.cbsistatic.com%2Fimg%2FbZ2PMPAasiJc9zMTaYu-SUfTJM8%3D%2F940x0%2F2020%2F05%2F11%2F36902069-0976-4f93-b580-839408ea29b2%2Fscreen-shot-2020-05-11-at-2-42-39-pm.png&imgrefurl=https%3A%2F%2Fwww.cnet.com%2Fnews%2Fthe-office-cast-reunites-for-a-zoom-wedding-hosted-by-john-krasinski%2F&tbnid=z_-wyC8C6f-4yM&vet=12ahUKEwiW6anwrP_uAhUW66wKHXufC8QQMygAegUIARCnAQ..i&docid=XWSBlRIAXWGSkM&w=940&h=526&q=office%20cast%20reunites%20for%20zoom%20wedding&safe=strict&ved=2ahUKEwiW6anwrP_uAhUW66wKHXufC8QQMygAegUIARCnAQ
+
+THOMAS MOORE: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimagesvc.meredithcorp.io%2Fv3%2Fmm%2Fimage%3Furl%3Dhttps%253A%252F%252Fstatic.onecms.io%252Fwp-content%252Fuploads%252Fsites%252F20%252F2020%252F04%252F16%252Ftom-moore-3.jpg&imgrefurl=https%3A%2F%2Fpeople.com%2Fhuman-interest%2F99-year-old-war-veteran-raises-19-million-walking-100-laps-uk-healthcare%2F&tbnid=8lOpErj_2wY5uM&vet=12ahUKEwjA_J--rP_uAhXNl60KHc6mCK0QMygIegUIARCXAQ..i&docid=mRkPBoLq1c_AOM&w=1500&h=1000&q=thomas%20moore%20walk%20100%20laps&safe=strict&ved=2ahUKEwjA_J--rP_uAhXNl60KHc6mCK0QMygIegUIARCXAQ
+
+FOOD DRIVE: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.cnbcfm.com%2Fapi%2Fv1%2Fimage%2F106516168-1588353437785foodbankfinal2.jpg%3Fv%3D1588353634%26w%3D720%26h%3D405&imgrefurl=https%3A%2F%2Fwww.cnbc.com%2F2020%2F05%2F02%2Fhigh-school-culinary-teacher-runs-food-drive-to-feed-students.html&tbnid=S07iHEf88BIfvM&vet=12ahUKEwjD6Jbzsf_uAhUQz6wKHXFgAzkQMygDegQIARA1..i&docid=lXJsHNUN6FbFNM&w=720&h=405&q=kelly%20carroll%20food%20bank%20at%20home&safe=strict&ved=2ahUKEwjD6Jbzsf_uAhUQz6wKHXFgAzkQMygDegQIARA1
+
+FLAMINGOES: https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod.s3.amazonaws.com%2Fimages%2Fflamingoes-are-seen-in-huge-numbers-behind-nri-colony-in-news-photo-1588354644.jpg&imgrefurl=https%3A%2F%2Fwww.prevention.com%2Flife%2Fa32344577%2Fflamingos-in-mumbai-2020%2F&tbnid=N2clt6kvXKXmWM&vet=12ahUKEwjotpzFsv_uAhVLOK0KHWFdAswQMygFegUIARC-AQ..i&docid=t20eJ_tqgX7SXM&w=4000&h=2250&q=sea%20of%20pink%20flamingos&safe=strict&ved=2ahUKEwjotpzFsv_uAhVLOK0KHWFdAswQMygFegUIARC-AQ

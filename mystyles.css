@@ -1,0 +1,8 @@
+li, td, p, a {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+html {
+    background-color: azure;
+}
